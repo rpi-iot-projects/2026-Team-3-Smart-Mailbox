@@ -1,0 +1,4 @@
+picamera==1.13
+mpu6050-raspberrypi
+git+https://github.com/gandalf15/HX711.git#egg=HX711&subdirectory=HX711_Python3
+numpy==2.4.4
